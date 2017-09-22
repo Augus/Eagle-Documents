@@ -2,8 +2,8 @@
 
 ## 第一部分 - 初次使用
 
-* [1. 创建第一个图片素材库](README.md)
 * [2. 建立分类文件夹](create-folder.md)
+* [1. 创建第一个图片素材库](README.md)
 * [3. 添加图片至 Eagle](jiang-tu-pian-su-cai-tian-jia-zhi.md)
 * [4. 安装并使用浏览器扩展收藏图片](an-zhuang-bing-shi-yong-liu-lan-qi-kuo-zhan-shou-cang-tu-pian.md)
 * [5. 使用序列号激活产品](gou-mai-hou-xu-lie-hao-hou-ff0c-ru-he-ji-huo-chan-pin-ff1f.md)
