@@ -30,9 +30,7 @@
 
 除了上述方式，我们也可以透过软件选单来添加图片，首先点击选单上的「**文件**」→「**添加图片**」，如下图所示：
 
-
-
-
+![](https://raw.githubusercontent.com/Augus/Eagle-Documents/master/assets/Eagle%E7%B3%BB%E7%BB%9F%E9%80%89%E5%8D%95%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87.gif)
 
 你也可以使用键盘快捷键呼叫出这个功能：
 
