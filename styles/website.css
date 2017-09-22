@@ -25,3 +25,11 @@
 .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6 {
 
 }
+
+.markdown-section table thead tr {
+    background: #f5f5f5;
+}
+
+.markdown-section table tr:nth-child(2n) {
+    background-color: rgba(0, 0, 0, 0);
+}
