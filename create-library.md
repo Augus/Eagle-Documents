@@ -8,9 +8,7 @@
 
 > 举例来说就是说我们不会在一个收藏「平面设计」的资源库中，被另一个「建筑设计」的资源库影响。
 
-  
-
- 
+![](/assets/hr.png)
 
 ### 创建资源库（Create Library） {#create-sub-folder}
 
@@ -26,33 +24,25 @@ macOS 版本创建资源库按钮
 
 Windows 版本创建资源库按钮
 
-![](/assets/eagle-create-library-menu-win.png)
+![](/assets/import-library-win.png)
 
 > 提示：你可以将资源库建立在云同步服务的同步文件夹，迅速在多台设备中同步收藏。了解更多
 
- 
-
- 
+![](/assets/hr.png)
 
 ### 重新命名资源库（Rename library） {#rename-library}
 
-目前 Eagle 尚未提供重新命名资源库的功能，你可以先透过修改资源库在电脑上的路径名称来达到这个目标，例如我们想要将「我的素材」名称更改为「我的灵感」，你可以这样操作：
+目前 Eagle 尚未提供重新命名资源库的功能，但可以先**透过修改资源库在电脑上的路径名称来修改名称**，例如我们想要将「我的素材」名称更改为「我的灵感」，你可以这样操作：
 
-步骤一：开启资源库所在位置
+步骤一：开启资源库所在位置![](/assets/rename-library-part-1.png)
 
-![](http://via.placeholder.com/350x150)
+步骤二：更换文件夹名称（例：我的灵感.library）![](/assets/rename-library-part2.png)
 
-步骤二：更换文件夹名称（例：我的灵感.library）
-
-![](http://via.placeholder.com/350x150)
-
-步骤三：回到 Eagle 点击软件选单，「**资源库**」→「**载入资源库**」，选择新的资源库路径后点击确认完成。
+步骤三：回到 Eagle 点击软件选单，「**资源库**」→「**载入资源库**」，选择新的资源库路径后点击确认完成。![](/assets/rename-library-part3.png)
 
 > 注：未来我们在软件内提供这项功能。
 
- 
-
- 
+![](/assets/hr.png)
 
 ### 备Eag份资源库（Backup library） {#backup-library}
 
