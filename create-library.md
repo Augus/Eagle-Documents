@@ -1,4 +1,6 @@
-# 创建资源库（Library）![](/assets/hr.png)
+# 创建资源库（Library）
+
+---
 
 ### 什么是资源库？ {#create-folder}
 
@@ -6,7 +8,7 @@
 
 > 举例来说就是说我们不会在一个收藏「平面设计」的资源库中，被另一个「建筑设计」的资源库影响。
 
-![](/assets/hr.png)
+---
 
 ### 创建资源库（Create Library） {#create-sub-folder}
 
@@ -26,7 +28,7 @@ Windows 版本固定创建资源库的选单位置
 
 > 提示：你可以将资源库建立在云同步服务的同步文件夹，迅速在多台设备中同步收藏。了解更多
 
-![](/assets/hr.png)
+---
 
 ### 重新命名资源库（Rename library） {#rename-library}
 
@@ -40,7 +42,7 @@ Windows 版本固定创建资源库的选单位置
 
 > 注：未来我们在软件内提供这项功能。
 
-![](/assets/hr.png)
+---
 
 ### 备份 Eagle 资源库（Backup library） {#backup-library}
 
