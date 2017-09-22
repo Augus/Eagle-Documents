@@ -4,7 +4,7 @@
 
 * [关于本文件](README.md)
 * [1. 创建资源库](create-library.md)
-* [2. 建立图片分类](create-folder.md)
+* [2. 创建文件夹](create-folder.md)
 * [3. 添加图片](add-images.md)
 * [4. 安装并使用浏览器扩展收藏图片](installing-browser-extesnion.md)
 * [5. 使用序列号激活产品](activating-with-license.md)
