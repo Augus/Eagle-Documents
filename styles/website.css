@@ -4,7 +4,7 @@
 
 .markdown-section code {
     background-color: #e6f1ff;
-    color: #006EFF
+    color: #006EFF;
     padding: 2px 4px;
     border-radius: 3px;
 }
@@ -14,5 +14,10 @@
 }
 
 .markdown-section b, .markdown-section strong {
-    color: #006EFF
+    color: #006EFF;
+}
+
+.markdown-section a {
+    color: #006EFF;
+    text-decoration: underline;
 }
