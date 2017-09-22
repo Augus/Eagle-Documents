@@ -1,6 +1,6 @@
 # 创建文件夹
 
-![](/assets/hr.png)
+---
 
 ### 创建文件夹
 
@@ -12,8 +12,6 @@
 
 ![](/assets/create-folder-typing.png)
 
-
-
 除了透过滑鼠操作外，你也可以使用键盘快捷键来建立文件夹：
 
 | 操作系统 | 快捷键 |
@@ -21,7 +19,7 @@
 | macOS | ⌘ + ⇧ + N |
 | Windows | Ctrl + Shift + N |
 
-### ![](/assets/hr.png) {#create-sub-folder}
+---
 
 ### 创建子文件夹 {#create-sub-folder}
 
@@ -29,7 +27,7 @@
 
 ![](http://via.placeholder.com/350x150)
 
-### ![](/assets/hr.png) {#rename-folder}
+---
 
 ### 重新命名文件夹（Rename folder） {#rename-folder}
 
@@ -48,7 +46,7 @@
 | macOS | ⌘ + R 或 F2 |
 | Windows | Ctrl + R 或 F2 |
 
-### ![](/assets/hr.png) {#remove-folder}
+---
 
 ### 删除文件夹（Remove folder） {#remove-folder}
 
