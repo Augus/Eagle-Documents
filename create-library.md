@@ -10,7 +10,7 @@
 
 ---
 
-### 创建资源库（Create Library） {#create-sub-folder}
+### 创建资源库 {#create-sub-folder}
 
 第一次使用软件时，你会看到下面这个画面，如果你是第一次使用这个产品，可以点击「**开始使用**」建立你第一个资源库，如果你电脑中已经存在资源库，你可以点击「**导入电脑上的资源库**」进行载入的动作，如下图所示：
 
@@ -30,7 +30,7 @@ Windows 版本固定创建资源库的选单位置
 
 ---
 
-### 重新命名资源库（Rename library） {#rename-library}
+### 重新命名资源库 {#rename-library}
 
 目前 Eagle 尚未提供重新命名资源库的功能，但可以先**透过修改资源库在电脑上的路径名称来修改名称**，例如我们想要将「我的素材」名称更改为「我的灵感」，你可以这样操作：
 
@@ -44,7 +44,7 @@ Windows 版本固定创建资源库的选单位置
 
 ---
 
-### 备份 Eagle 资源库（Backup library） {#backup-library}
+### 备份 Eagle 资源库 {#backup-library}
 
 为了避免电脑遗失或损坏造成收藏丢失，你可以随时随地的备份资源库，备份的方式也相当简单，你只需要将资源库对应的电脑文件夹进行复制/粘贴就能完成。
 
@@ -52,7 +52,7 @@ Windows 版本固定创建资源库的选单位置
 
 步骤二：将文件夹备份至其他设备（如移动硬盘）![](blob:https://www.gitbook.com/26c1f365-7129-4c6b-a230-53bf683da481)
 
-> 提示：如果你使用 macOS，你可以使用 [Time Machine](https://support.apple.com/zh-cn/HT201250 "使用 Time Machine 进行备份") 来备份电脑，不怕任何文件丢失。
+> 提示：如果你使用 macOS，非常建议使用 [Time Machine](https://support.apple.com/zh-cn/HT201250 "使用 Time Machine 进行备份") 来备份电脑，不怕任何文件丢失。
 
 ---
 
