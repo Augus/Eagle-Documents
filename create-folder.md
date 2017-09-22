@@ -19,7 +19,7 @@
 | macOS | ⌘ + ⇧ + N |
 | Windows | Ctrl + Shift + N |
 
-###  {#create-sub-folder}
+### ![](/assets/hr.png) {#create-sub-folder}
 
 ### 创建一个子文件夹 {#create-sub-folder}
 
@@ -27,7 +27,7 @@
 
 ![](http://via.placeholder.com/350x150)
 
-###  {#rename-folder}
+### ![](/assets/hr.png) {#rename-folder}
 
 ### 重新命名文件夹（Rename folder） {#rename-folder}
 
@@ -46,7 +46,7 @@
 | macOS | ⌘ + R 或 F2 |
 | Windows | Ctrl + R 或 F2 |
 
-###  {#remove-folder}
+### ![](/assets/hr.png) {#remove-folder}
 
 ### 删除文件夹（Remove folder） {#remove-folder}
 
