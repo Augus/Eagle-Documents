@@ -1,6 +1,4 @@
-# 创建资源库（Library）
-
----
+# 创建资源库（Library）![](/assets/hr.png)
 
 ### 什么是资源库？ {#create-folder}
 
@@ -18,11 +16,11 @@
 
 初次使用 Eagle 画面，可以点击左侧按钮建立资源库![](/assets/eagle-welcome-library.png)
 
-macOS 版本创建资源库按钮
+macOS 版本固定创建资源库的选单位置
 
 ![](/assets/eagle-menu-create-library.png)
 
-Windows 版本创建资源库按钮
+Windows 版本固定创建资源库的选单位置
 
 ![](/assets/import-library-win.png)
 
@@ -44,17 +42,13 @@ Windows 版本创建资源库按钮
 
 ![](/assets/hr.png)
 
-### 备Eag份资源库（Backup library） {#backup-library}
+### 备份 Eagle 资源库（Backup library） {#backup-library}
 
 为了避免电脑遗失或损坏造成收藏丢失，你可以随时随地的备份资源库，备份的方式也相当简单，你只需要将资源库对应的电脑文件夹进行复制/粘贴就能完成。
 
-步骤一：复制当前资源库
+步骤一：复制当前资源库![](/assets/backup-library-step1.png)
 
-![](http://via.placeholder.com/350x150)
-
-步骤二：将文件夹备份至其他设备（如移动硬盘）
-
-![](http://via.placeholder.com/350x150)
+步骤二：将文件夹备份至其他设备（如移动硬盘）![](blob:https://www.gitbook.com/26c1f365-7129-4c6b-a230-53bf683da481)
 
 > 提示：如果你使用 macOS，你可以使用 [Time Machine](https://support.apple.com/zh-cn/HT201250 "使用 Time Machine 进行备份") 来备份电脑，不怕任何文件丢失。
 
