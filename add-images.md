@@ -18,7 +18,7 @@
 | :--- | :--- |
 | macOS | ⌘ + ⇧ + N |
 
-###  {#create-sub-folder}
+---
 
 ### 从剪贴簿贴上图片（Clipboard） {#create-sub-folder}
 
@@ -26,7 +26,13 @@
 
 ![](http://via.placeholder.com/350x150)
 
-###  {#rename-folder}
+
+
+| Windows | Ctrl + V |
+| :--- | :--- |
+| macOS | ⌘ + V |
+
+---
 
 ### 从软件选单进行添加 {#rename-folder}
 

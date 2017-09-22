@@ -2,6 +2,7 @@
 
 ## 第一部分 - 初次使用
 
+* [关于本文件](README.md)
 * [1. 创建资源库](create-library.md)
 * [2. 建立图片分类](create-folder.md)
 * [3. 添加图片](add-images.md)
@@ -36,5 +37,4 @@
 * [如何安装浏览器扩展？](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/ru-he-an-zhuang-liu-lan-qi-kuo-zhan.md)
   * [4-1. 在「360 浏览器」安装扩展套件](an-zhuang-bing-shi-yong-liu-lan-qi-kuo-zhan-shou-cang-tu-pian/4-1-ru-he-zai-360-liu-lan-qi-an-zhuang-kuo-zhan-tao-jian.md)
   * [4-2. 在「QQ 浏览器」安装扩展套件](an-zhuang-bing-shi-yong-liu-lan-qi-kuo-zhan-shou-cang-tu-pian/ru-he-zai-qq-liu-lan-qi-an-zhuang-kuo-zhan-tao-jian.md)
-* [ ](README.md)
 
