@@ -10,10 +10,6 @@
 
 
 
----
-
-
-
 ### 创建资源库（Create Library） {#create-sub-folder}
 
 第一次使用软件时，你会看到下面这个画面，如果你是第一次使用这个产品，可以点击「**开始使用**」建立你第一个资源库，如果你电脑中已经存在资源库，你可以点击「**导入电脑上的资源库**」进行载入的动作，如下图所示：
@@ -30,15 +26,13 @@ Windows 版本创建资源库按钮
 
 ![](/assets/eagle-create-library-menu-win.png)
 
-
-
 > 提示：你可以将资源库建立在云同步服务的同步文件夹，迅速在多台设备中同步收藏。了解更多
 
 
 
----
 
 
+ 
 
 ### 重新命名资源库（Rename library） {#rename-library}
 
@@ -58,8 +52,6 @@ Windows 版本创建资源库按钮
 
 
 
----
-
 
 
 ### 备Eag份资源库（Backup library） {#backup-library}
@@ -70,17 +62,11 @@ Windows 版本创建资源库按钮
 
 ![](http://via.placeholder.com/350x150)
 
-
-
 步骤二：将文件夹备份至其他设备（如移动硬盘）
 
 ![](http://via.placeholder.com/350x150)
 
-
-
 > 提示：如果你使用 macOS，你可以使用 [Time Machine](https://support.apple.com/zh-cn/HT201250 "使用 Time Machine 进行备份") 来备份电脑，不怕任何文件丢失。
-
-
 
 ---
 
