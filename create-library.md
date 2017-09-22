@@ -10,13 +10,35 @@
 
 
 
+---
+
+
+
 ### 创建资源库（Create Library） {#create-sub-folder}
 
-第一次使用软件时，你会看到下面这个画面，如果你是第一次使用这个产品，可以点击「」建立你第一个资源库，如果你电脑中已经存在资源库，你可以点击「」进行载入的动作，如下图所示：
+第一次使用软件时，你会看到下面这个画面，如果你是第一次使用这个产品，可以点击「**开始使用**」建立你第一个资源库，如果你电脑中已经存在资源库，你可以点击「**导入电脑上的资源库**」进行载入的动作，如下图所示：
+
+![](/assets/eagle-welcom.png)
+
+初次使用 Eagle 画面，可以点击左侧按钮建立资源库![](/assets/eagle-welcome-library.png)
+
+macOS 版本创建资源库按钮
+
+![](/assets/eagle-menu-create-library.png)
+
+Windows 版本创建资源库按钮
+
+![](/assets/eagle-create-library-menu-win.png)
+
+
 
 > 提示：你可以将资源库建立在云同步服务的同步文件夹，迅速在多台设备中同步收藏。了解更多
 
-###  {#rename-folder}
+
+
+---
+
+
 
 ### 重新命名资源库（Rename library） {#rename-library}
 
@@ -32,11 +54,13 @@
 
 步骤三：回到 Eagle 点击软件选单，「**资源库**」→「**载入资源库**」，选择新的资源库路径后点击确认完成。
 
-
-
 > 注：未来我们在软件内提供这项功能。
 
-###  {#backup-library}
+
+
+---
+
+
 
 ### 备Eag份资源库（Backup library） {#backup-library}
 
@@ -46,13 +70,17 @@
 
 ![](http://via.placeholder.com/350x150)
 
+
+
 步骤二：将文件夹备份至其他设备（如移动硬盘）
 
-如果你的文件夹里面有包含图片，软件会出现一个提示视窗询问是否需要也将图片丢到垃圾桶，点击「是」图片会丢到垃圾桶，点击「否」图片会回到全部图片（未分类）。
+![](http://via.placeholder.com/350x150)
 
-除了使用滑鼠操作，你还键盘快捷键迅速完成修改名称的任务，修改文件夹名称的快捷键是：
+
 
 > 提示：如果你使用 macOS，你可以使用 [Time Machine](https://support.apple.com/zh-cn/HT201250 "使用 Time Machine 进行备份") 来备份电脑，不怕任何文件丢失。
+
+
 
 ---
 
