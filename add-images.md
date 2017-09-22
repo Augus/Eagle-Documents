@@ -4,7 +4,9 @@
 
 ### 直接拖拽本地文件/文件夹（Drag & Drop） {#dragging-to-adding}
 
-将图片添加至 Eagle 非常的容易，你可以直接将想要添加的图片拖拽到 Eagle 软件中央区块，放开左键后就能添加：![](https://github.com/Augus/Eagle-Documents/blob/master/assets/Eagle 拖拽图片添加.gif?raw=true)
+将图片添加至 Eagle 非常的容易，你可以直接将想要添加的图片拖拽到 Eagle 软件中央区块，放开左键后就能添加：![](https://github.com/Augus/Eagle-Documents/blob/master/assets/eagle-dng-image.gif?raw=true)
+
+
 
 除了透过滑鼠操作外，你也可以使用键盘快捷键来建立文件夹，快捷键是：
 
@@ -30,7 +32,7 @@
 
 除了上述方式，我们也可以透过软件选单来添加图片，首先点击选单上的「**文件**」→「**添加图片**」，如下图所示：
 
-![](https://raw.githubusercontent.com/Augus/Eagle-Documents/master/assets/Eagle%E7%B3%BB%E7%BB%9F%E9%80%89%E5%8D%95%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87.gif)
+![](https://raw.githubusercontent.com/Augus/Eagle-Documents/master/assets/Eagle系统选单添加图片.gif)
 
 你也可以使用键盘快捷键呼叫出这个功能：
 
