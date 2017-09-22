@@ -6,15 +6,6 @@
 
 将图片添加至 Eagle 非常的容易，你可以直接将想要添加的图片拖拽到 Eagle 软件中央区块，放开左键后就能添加：![](https://github.com/Augus/Eagle-Documents/blob/master/assets/eagle-dng-image.gif?raw=true)
 
-
-
-除了透过滑鼠操作外，你也可以使用键盘快捷键来建立文件夹，快捷键是：
-
-| 操作系统 | 快捷键 |
-| :--- | :--- |
-| macOS | ⌘ + ⇧ + N |
-| Windows | Ctrl + Shift + N |
-
 ---
 
 ### 从剪贴簿贴上图片（Clipboard） {#create-sub-folder}
@@ -38,8 +29,8 @@
 
 | 操作系统 | 快捷键 |
 | :--- | :--- |
-| macOS | ⌘ + R 或 F2 |
-| Windows | Ctrl + R 或 F2 |
+| macOS | ⌘ + N |
+| Windows | Ctrl + N |
 
 ###  {#remove-folder}
 
