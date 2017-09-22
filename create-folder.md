@@ -1,8 +1,8 @@
 # 创建文件夹
 
----
+![](/assets/hr.png)
 
-### 创建文件夹（Create folder） {#create-folder}
+### 创建一个文件夹 {#create-folder}
 
 在 Eagle 软件中，你可以建立「文件夹」分类图片素材，首先开启的 Eagle 软件，在软件左边的侧边栏找到「文件夹」区块：
 
@@ -14,13 +14,14 @@
 
 除了透过滑鼠操作外，你也可以使用键盘快捷键来建立文件夹，快捷键是：
 
-| Windows | Ctrl + Shift + N |
+| 操作系统 | 快捷键 |
 | :--- | :--- |
 | macOS | ⌘ + ⇧ + N |
+| Windows | Ctrl + Shift + N |
 
 ###  {#create-sub-folder}
 
-### 建立子文件夹（Create sub-folder） {#create-sub-folder}
+### 创建一个子文件夹 {#create-sub-folder}
 
 如果你想要创建阶层式的文件夹，你可以在建立父文件夹后，对文件夹点击右键，选择「**创建子文件夹**」来建立子阶层文件夹，如下图所示：
 
@@ -40,9 +41,10 @@
 
 除了上述方式，你还键盘快捷键迅速完成修改名称的任务，修改文件夹名称的快捷键是：
 
-| Windows | Ctrl + R 或 F2 |
+| 操作系统 | 快捷键 |
 | :--- | :--- |
 | macOS | ⌘ + R 或 F2 |
+| Windows | Ctrl + R 或 F2 |
 
 ###  {#remove-folder}
 
