@@ -39,38 +39,7 @@
 
 Eagle 浏览器扩展可以安装到各种浏览器上，本文以 Chrome 为例，介绍如何安装，你也可以点击这里查看其他浏览器的安装方式。
 
-除了透过滑鼠操作外，你也可以使用键盘快捷键来建立文件夹，快捷键是：
 
-| 操作系统 | 快捷键 |
-| :--- | :--- |
-| macOS | ⌘ + ⇧ + N |
-| Windows | Ctrl + Shift + N |
-
----
-
-### 从剪贴簿贴上图片（Clipboard） {#create-sub-folder}
-
-有时候想要添加的图片并不是电脑上的文件，而是从剪贴簿复制粘贴的，Eagle 也支持使用剪贴簿方式添加图片，首先把想要添加的图片复制至剪贴簿，接著开启 Eagle 进行粘贴就能将图片添加进来。
-
-| 操作系统 | 快捷键 |
-| :--- | :--- |
-| macOS | ⌘ + V |
-| Windows | Ctrl + V |
-
----
-
-### 从软件选单进行添加 {#rename-folder}
-
-除了上述方式，我们也可以透过软件选单来添加图片，首先点击选单上的「**文件**」→「**添加图片**」，如下图所示：
-
-![](https://raw.githubusercontent.com/Augus/Eagle-Documents/master/assets/Eagle系统选单添加图片.gif)
-
-你也可以使用键盘快捷键呼叫出这个功能：
-
-| 操作系统 | 快捷键 |
-| :--- | :--- |
-| macOS | ⌘ + R 或 F2 |
-| Windows | Ctrl + R 或 F2 |
 
 ###  {#remove-folder}
 
