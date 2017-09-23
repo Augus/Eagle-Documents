@@ -18,6 +18,10 @@
 * [使用「智能文件夹」实现动态分类](ru-he-shi-yong-300c-zhi-neng-wen-jian-jia-300d.md)
 * [使用「标签」管理图片](shi-yong-300c-biao-qian-300d-guan-li-tu-pian.md)
 * [使用「颜色筛选」功能迅速找到色彩灵感](shi-yong-300c-yan-se-shai-xuan-300d-gong-neng-xun-su-zhao-dao-se-cai-ling-gan.md)
+* batch-rename.md
+* [quick-jump.md](quick-jumpmd.md)
+* search-with-google.md
+* fullscreen.md
 
 ## 第三部分 - 如何设置同步功能
 
