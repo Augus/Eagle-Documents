@@ -7,7 +7,7 @@
 * [2. 创建文件夹](create-folder.md)
 * [3. 添加图片](add-images.md)
 * [4. 安装并使用浏览器扩展收藏图片](installing-browser-extesnion.md)
-* [5. 使用序列号激活产品](activating-with-license.md)
+* [5. 如何激活产品](activating-with-license.md)
 * [6. 常见问题](faq.md)
 
 ## 第二部分 - 详细功能说明
