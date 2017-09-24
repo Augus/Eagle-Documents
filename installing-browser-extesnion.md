@@ -73,12 +73,12 @@ Eagle 浏览器扩展可以安装到各种浏览器上，本文以 Chrome 为例
 
 ### 为什么浏览器扩展点击没有反应？ {#extension}
 
-主要的原因是「**代理软件阻挡了软件与扩展之间的连接**」。Eagle 的浏览器扩充插件主要透过本机地址`127.0.0.1`/`localhost`与软件进行沟通，通常出现这个状况是因为你正在使用的`代理软件（如 Shadowsocks）`将这个地址给遮蔽导致，你可以尝试以下几中方式解决：
+主要的原因是「**代理软件阻挡了软件与扩展之间的连接**」。Eagle 的浏览器扩充插件主要透过本机地址127.0.0.1/localhost与软件进行沟通，通常出现这个状况是因为你正在使用的代理软件（如 Shadowsocks）将这个地址给遮蔽导致，你可以尝试以下几中方式解决：
 
 * 试试重启 Eagle 软件。
-* 将代理软件的代理模式模式设置「`自动代理`」有些软件上叫做 PAC。
-* 设置代理软件代理的地址，将本机地址`127.0.0.1`排除。
-* 你在使用`Shadowsocks`的话 ，更新下一个世代版本的 ShadowsocksX-NG 能解决这个问题（[macOS下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases) / [Windows下载](https://github.com/shadowsocks/shadowsocks-windows/releases)）。
+* 将代理软件的代理模式模式设置「**自动代理**」有些软件上叫做 PAC。
+* 设置代理软件代理的地址，将本机地址**127.0.0.1**排除。
+* 你在使用**Shadowsocks**的话 ，更新下一个世代版本的 ShadowsocksX-NG 能解决这个问题（[macOS下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases) / [Windows下载](https://github.com/shadowsocks/shadowsocks-windows/releases)）。
 
 
 

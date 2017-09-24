@@ -10,7 +10,7 @@
 * [5. 如何激活产品](activating-with-license.md)
 * [6. 常见问题](faq.md)
 
-## 第二部分 - 详细功能说明
+## 第二部分 - 从入门到精通
 
 * [Eagle 快捷键一览](eagle-kuai-jie-jian-yi-lan.md)
 * [建立「图片资源库庫」](jian-li-tu-pian-zi-yuan-ku-ku.md)
