@@ -41,4 +41,5 @@
 * [如何安装浏览器扩展？](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/ru-he-an-zhuang-liu-lan-qi-kuo-zhan.md)
   * [4-1. 在「360 浏览器」安装扩展套件](an-zhuang-bing-shi-yong-liu-lan-qi-kuo-zhan-shou-cang-tu-pian/4-1-ru-he-zai-360-liu-lan-qi-an-zhuang-kuo-zhan-tao-jian.md)
   * [4-2. 在「QQ 浏览器」安装扩展套件](an-zhuang-bing-shi-yong-liu-lan-qi-kuo-zhan-shou-cang-tu-pian/ru-he-zai-qq-liu-lan-qi-an-zhuang-kuo-zhan-tao-jian.md)
+* [代理工具配置教程](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/npn-config.md)
 
