@@ -63,7 +63,5 @@
 | macOS | ⌘ + Delete |
 | Windows | Del |
 
----
 
-[下一节：添加图片到 Eagle](/add-images.md)
 

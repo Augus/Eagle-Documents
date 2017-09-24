@@ -6,9 +6,7 @@
 
 你可以前往 [Eagle 产品购买页面](https://cn.eagle.cool/store)购买产品序列号，如果你正在使用体验版软件，你可以直接点击左上角的「**立刻购买**」按钮，接著点击。「**点击这里购买产品序列号**」连结即可前往官网购买。
 
-```
-产品购买页面：https://cn.eagle.cool/store
-```
+> 产品购买页面：[https://cn.eagle.cool/store](https://cn.eagle.cool/store)
 
 ---
 

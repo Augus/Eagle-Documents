@@ -54,7 +54,5 @@ Windows 版本固定创建资源库的选单位置
 
 > 提示：如果你使用 macOS，非常建议使用 [Time Machine](https://support.apple.com/zh-cn/HT201250 "使用 Time Machine 进行备份") 来备份电脑，不怕任何文件丢失。
 
----
 
-[下一节：添加图片到 Eagle](/add-images.md)
 

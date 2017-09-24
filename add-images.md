@@ -32,9 +32,7 @@
 | macOS | ⌘ + N |
 | Windows | Ctrl + N |
 
-###  {#remove-folder}
 
----
 
-[下一节：添加图片到 Eagle](/add-images.md)
+
 

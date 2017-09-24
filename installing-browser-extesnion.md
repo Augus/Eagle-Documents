@@ -25,23 +25,21 @@
 
 2. ##### 网页图片批量收藏
 
-   一张一张收藏很麻烦吗？别担心你可以点击 Eagle 浏览器扩展按钮，选择「**收藏图片**」按钮，直接批量将图片收藏到你的图片库中。
+   一张一张收藏很麻烦吗？别担心你可以点击 Eagle 浏览器扩展按钮，选择「**收藏图片**」按钮，直接批量将图片收藏到你的图片库中。  
+   ![](https://github.com/Augus/Eagle-Documents/blob/master/assets/extension_batch_collect.gif?raw=true)
 
 3. ##### 网页整页截图
 
-   点击 Eagle 浏览器扩展按钮，选择「整页截图」按钮，迅速将网页整页截图并添加到图片库里面。
+   点击 Eagle 浏览器扩展按钮，选择「整页截图」按钮，迅速将网页整页截图并添加到图片库里面。  
+   ![](https://github.com/Augus/Eagle-Documents/blob/master/assets/extension_entrie_capture.gif?raw=true)
 
 4. ##### 网页局部截图
+
+   与整页截图相似，你可以框选截取网页让任何一你想要截取的部分，收藏下来的截图都会保留网站的标题与来源网址，未来查找来源变得非常超容易。
 
 ---
 
 ### 安装浏览器扩展
 
 Eagle 浏览器扩展可以安装到各种浏览器上，本文以 Chrome 为例，介绍如何安装，你也可以点击这里查看其他浏览器的安装方式。
-
-###  {#remove-folder}
-
----
-
-[下一节：添加图片到 Eagle](/add-images.md)
 
