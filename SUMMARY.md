@@ -12,7 +12,7 @@
 
 ## 第二部分 - 从入门到精通
 
-* [Eagle 快捷键一览](eagle-kuai-jie-jian-yi-lan.md)
+* [Eagle 快捷键一览](shortcuts.md)
 * [建立「图片资源库庫」](jian-li-tu-pian-zi-yuan-ku-ku.md)
 * [使用「文件夾」分類素材](jian-li-tu-pian-zi-yuan-ku-ku/shi-yong-300c-wen-jian-jia-300d-fen-lei-su-cai.md)
 * [使用「智能文件夹」实现动态分类](ru-he-shi-yong-300c-zhi-neng-wen-jian-jia-300d.md)
