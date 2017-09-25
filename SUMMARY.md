@@ -25,21 +25,18 @@
 
 ## 第三部分 - 如何设置同步功能
 
-* [1. 关于 Eagle 的同步功能](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/guan-yu-tong-bu-gong-neng.md)
+* [1. 使用「移动硬盘」同步素材](sync-with-usb-devices.md)
 * [2. 使用「坚果云」同步素材](nutstore.md)
-* [3.「百度同步盘」同步配置方式](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/bai-du-yun-tong-bu-pei-zhi-fang-shi.md)
-* [4.「Dropbox」同步配置方式](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/dropbox300d-tong-bu-pei-zhi-fang-shi.md)
-* [5.「Google Drive」同步配置方式](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/google-drive300d-tong-bu-pei-zhi-fang-shi.md)
+* [3. 使用「百度同步盘」同步素材](baidu-sync.md)
+* [4. 使用「Dropbox」同步素材](dropbox.md)
+* [5. 使用「Google Drive」同步素材](google-drive.md)
 
-## 第四部分 - 如何使用浏览器扩展
+## 第四部分 - 如何安装浏览器扩展
 
-* [功能介绍](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/gong-neng-jie-shao.md)
-  * [一键收藏图片](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/yi-jian-shou-cang-tu-pian.md)
-  * [批量收藏图片](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/pi-liang-shou-cang-tu-pian.md)
-  * [网页整页截图](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/wang-ye-zheng-ye-jie-tu.md)
-  * [局部截图](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/ce-shi.md)
-* [如何安装浏览器扩展？](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/ru-he-an-zhuang-liu-lan-qi-kuo-zhan.md)
-  * [4-1. 在「360 浏览器」安装扩展套件](an-zhuang-bing-shi-yong-liu-lan-qi-kuo-zhan-shou-cang-tu-pian/4-1-ru-he-zai-360-liu-lan-qi-an-zhuang-kuo-zhan-tao-jian.md)
-  * [4-2. 在「QQ 浏览器」安装扩展套件](an-zhuang-bing-shi-yong-liu-lan-qi-kuo-zhan-shou-cang-tu-pian/ru-he-zai-qq-liu-lan-qi-an-zhuang-kuo-zhan-tao-jian.md)
-* [代理工具配置教程](di-si-bu-fen-ru-he-shi-yong-liu-lan-qi-kuo-zhan/npn-config.md)
+* [4-1. 在「360 浏览器」安装扩展套件](360-broser.md)
+* [4-2. 在「QQ 浏览器」安装扩展套件](QQBrowser.md)
+* [4-3. 在「UC 浏览器」安装扩展套件](uc-browsermd.md)
+* 4-4. 在「Chrome 浏览器」安装扩展套件
+* 4-5. 在「Safari 浏览器」安装扩展套件
+* 4-6. 在「Firefox 浏览器」安装扩展套件.md
 
