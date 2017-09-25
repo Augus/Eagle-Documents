@@ -26,7 +26,7 @@
 ## 第三部分 - 如何设置同步功能
 
 * [1. 关于 Eagle 的同步功能](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/guan-yu-tong-bu-gong-neng.md)
-* [2.「坚果云」同步设置方式](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/300c-jian-guo-yun-300d-tong-bu-she-zhi-fang-shi.md)
+* [2. 使用「坚果云」同步素材](nutstore.md)
 * [3.「百度同步盘」同步配置方式](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/bai-du-yun-tong-bu-pei-zhi-fang-shi.md)
 * [4.「Dropbox」同步配置方式](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/dropbox300d-tong-bu-pei-zhi-fang-shi.md)
 * [5.「Google Drive」同步配置方式](di-san-bu-fen-ru-he-she-zhi-tong-bu-gong-neng/google-drive300d-tong-bu-pei-zhi-fang-shi.md)
