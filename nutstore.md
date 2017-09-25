@@ -18,13 +18,9 @@
 
 坚果云可以让我们很便利得在多台设备中同步文件及文件夹，因此我们也能够透过同样的机制，将 Eagle 创建的资源库文件夹同步在多台设备中，请跟著我们些下来的方式进行配置：
 
-
-
 **步骤一：下载坚果云 macOS 客户端**
 
 点击点击下载坚果云客户端：[https://www.jianguoyun.com/s/downloads](https://www.jianguoyun.com/s/downloads)
-
-
 
 **步骤二：安装坚果云 macOS 客户端**
 
@@ -32,13 +28,11 @@
 
 ![](/assets/nutstore-installing.png)
 
-
-
 **步骤三：设定坚果云存放路径**
 
 安装结束后，坚果云会请你设定同步文件夹要存放的位置，选择你想要路径后，点击下一步。![](/assets/nutstore-installing-path.png)
 
-**步骤四：开启坚果云文件夹**
+**步骤四：开启坚果云文件夹**![](/assets/nutstore-installing-folder.png)
 
 
 
@@ -47,8 +41,6 @@
 **步骤六：回到 Eagle，点击软件选单「资源库」→「载入其他资源库...」**
 
 ![](/assets/nutstore-installing-load-library.png)
-
-
 
 **步骤七：选择坚果云文件夹中的 Eagle 资源库路径，就完成设置啦！**![](/assets/installing-nutstore-load-library.png)
 
@@ -60,13 +52,9 @@
 
 坚果云可以让我们很便利得在多台设备中同步文件及文件夹，因此我们也能够透过同样的机制，将 Eagle 创建的资源库文件夹同步在多台设备中，请跟著我们些下来的方式进行配置：
 
-
-
 **步骤一：下载坚果云 Windows 客户端**
 
 点击点击下载坚果云客户端：[https://www.jianguoyun.com/s/downloads](https://www.jianguoyun.com/s/downloads)
-
-
 
 **步骤二：安装坚果云 Windows 客户端**
 
@@ -76,19 +64,13 @@
 
 ![](/assets/nutstore-install-windows-step2.png)
 
-
-
 **步骤三：登入坚果云**
 
 安装结束后，坚果云会请你设定同步文件夹要存放的位置，选择你想要路径后，点击下一步。![](/assets/nutstore-install-windows-step3.png)
 
-
-
 **步骤四：设定坚果云存放路径**
 
 ![](/assets/nutstore-install-windows-step4.png)
-
-
 
 **步骤五：开启坚果云文件夹**![](/assets/nutstore-install-windows-step5.png)
 
