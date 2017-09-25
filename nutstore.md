@@ -24,17 +24,13 @@
 
 **步骤二：安装坚果云 macOS 客户端**
 
-双击安装文件，安装会自动开始
-
-![](/assets/nutstore-installing.png)
+双击安装文件，安装会自动开始![](/assets/nutstore-installing-macos.png)
 
 **步骤三：设定坚果云存放路径**
 
 安装结束后，坚果云会请你设定同步文件夹要存放的位置，选择你想要路径后，点击下一步。![](/assets/nutstore-installing-path.png)
 
 **步骤四：开启坚果云文件夹**![](/assets/nutstore-installing-folder.png)
-
-
 
 **步骤五：将 「Eagle 资源库」拖拽至坚果云同步文件夹中**![](https://github.com/Augus/Eagle-Documents/blob/master/assets/installing-nutstore-move-library.gif?raw=true)
 
