@@ -28,8 +28,8 @@
 * [1. 使用「移动硬盘」同步素材](sync-with-usb-devices.md)
 * [2. 使用「坚果云」同步素材](nutstore.md)
 * [3. 使用「百度同步盘」同步素材](baidu-sync.md)
-* [4. 使用「Dropbox」同步素材](dropbox.md)
-* [5. 使用「Google Drive」同步素材](google-drive.md)
+* [4. 使用「Dropbox」同步素材\(未完成\)](dropbox.md)
+* [5. 使用「Google Drive」同步素材\(未完成\)](google-drive.md)
 
 ## 第四部分 - 如何安装浏览器扩展
 
