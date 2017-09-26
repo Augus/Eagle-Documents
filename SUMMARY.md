@@ -12,7 +12,7 @@
 
 ## 第二部分 - 从入门到精通
 
-* [Eagle 快捷键一览](shortcuts.md)
+* [Eagle 快捷键一览\(正在处理\)](shortcuts.md)
 * [建立「图片资源库庫」](jian-li-tu-pian-zi-yuan-ku-ku.md)
 * [使用「文件夾」分類素材](jian-li-tu-pian-zi-yuan-ku-ku/shi-yong-300c-wen-jian-jia-300d-fen-lei-su-cai.md)
 * [使用「智能文件夹」实现动态分类](ru-he-shi-yong-300c-zhi-neng-wen-jian-jia-300d.md)
@@ -25,11 +25,11 @@
 
 ## 第三部分 - 如何设置同步功能
 
-* [1. 使用「移动硬盘」同步素材](sync-with-usb-devices.md)
+* [1. 使用「移动硬盘」同步素材\(正在处理\)](sync-with-usb-devices.md)
 * [2. 使用「坚果云」同步素材](nutstore.md)
 * [3. 使用「百度同步盘」同步素材](baidu-sync.md)
-* [4. 使用「Dropbox」同步素材\(未完成\)](dropbox.md)
-* [5. 使用「Google Drive」同步素材\(未完成\)](google-drive.md)
+* [4. 使用「Dropbox」同步素材\(正在处理\)](dropbox.md)
+* [5. 使用「Google Drive」同步素材\(正在处理\)](google-drive.md)
 
 ## 第四部分 - 如何安装浏览器扩展
 
@@ -37,6 +37,6 @@
 * [4-2. 在「QQ 浏览器」安装扩展套件](QQBrowser.md)
 * [4-3. 在「UC 浏览器」安装扩展套件](uc-browsermd.md)
 * [4-4. 在「Chrome 浏览器」安装扩展套件](4-4-zai-300c-chrome-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-jian.md)
-* 4-5. 在「Safari 浏览器」安装扩展套件
-* 4-6. 在「Firefox 浏览器」安装扩展套件.md
+* [4-5. 在「Safari 浏览器」安装扩展套件\(正在处理\)](4-5-zai-300c-safari-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-jian.md)
+* [4-6. 在「Firefox 浏览器」安装扩展套件\(正在处理\)](4-6-zai-300c-firefox-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-4ef6-md.md)
 
