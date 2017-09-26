@@ -41,5 +41,5 @@
 * [在「UC 浏览器」安装扩展套件](uc-browsermd.md)
 * [在「Chrome 浏览器」安装扩展套件](chrome.md)
 * [在「Safari 浏览器」安装扩展套件](safari.md)
-* [在「Firefox 浏览器」安装扩展套件\(正在处理\)](4-6-zai-300c-firefox-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-4ef628-zheng-zai-chu-740629.md)
+* [在「Firefox 浏览器」安装扩展套件](firefox.md)
 
