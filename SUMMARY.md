@@ -36,7 +36,7 @@
 * [4-1. 在「360 浏览器」安装扩展套件](360-broser.md)
 * [4-2. 在「QQ 浏览器」安装扩展套件](QQBrowser.md)
 * [4-3. 在「UC 浏览器」安装扩展套件](uc-browsermd.md)
-* 4-4. 在「Chrome 浏览器」安装扩展套件
+* [4-4. 在「Chrome 浏览器」安装扩展套件](4-4-zai-300c-chrome-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-jian.md)
 * 4-5. 在「Safari 浏览器」安装扩展套件
 * 4-6. 在「Firefox 浏览器」安装扩展套件.md
 
