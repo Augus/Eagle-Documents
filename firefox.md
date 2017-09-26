@@ -10,7 +10,7 @@
 
 ---
 
-### 如果上面方式无法安装，请尝试下面提供的方法
+### 如果上面方式无法安装，请尝试下面方法
 
 **步骤一：前往扩展介绍页面，并下载 Firefox 扩展**：[https://cn.eagle.cool/extensions](https://cn.eagle.cool/extensions)![](/assets/firefox-step-1.png)
 
