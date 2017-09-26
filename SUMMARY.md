@@ -13,7 +13,7 @@
 * [5. 如何激活产品](activating-with-license.md)
 * [6. 常见问题](faq.md)
 
-## 第二部分 - 从入门到精通
+## 第二部分 - 进阶功能说明
 
 * [Eagle 功能快捷键](shortcuts.md)
 * [建立「图片资源库庫」](jian-li-tu-pian-zi-yuan-ku-ku.md)
@@ -28,7 +28,7 @@
 
 ## 第三部分 - 如何设置同步功能
 
-* [1. 使用「移动硬盘」同步素材\(正在处理\)](sync-with-usb-devices.md)
+* [1. 使用「移动硬盘」同步素材](sync-with-usb-devices.md)
 * [2. 使用「坚果云」同步素材](nutstore.md)
 * [3. 使用「百度同步盘」同步素材](baidu-sync.md)
 * [4. 使用「Dropbox」同步素材\(正在处理\)](dropbox.md)
@@ -40,6 +40,6 @@
 * [在「QQ 浏览器」安装扩展套件](QQBrowser.md)
 * [在「UC 浏览器」安装扩展套件](uc-browsermd.md)
 * [在「Chrome 浏览器」安装扩展套件](chrome.md)
-* [在「Safari 浏览器」安装扩展套件\(正在处理\)](safari.md)
+* [在「Safari 浏览器」安装扩展套件](safari.md)
 * [在「Firefox 浏览器」安装扩展套件\(正在处理\)](4-6-zai-300c-firefox-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-4ef628-zheng-zai-chu-740629.md)
 
