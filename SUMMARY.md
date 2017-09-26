@@ -33,10 +33,10 @@
 
 ## 第四部分 - 如何安装浏览器扩展
 
-* [4-1. 在「360 浏览器」安装扩展套件](360-broser.md)
+* [4-1. 在「360 浏览器」安装扩展套件](360-browser.md)
 * [4-2. 在「QQ 浏览器」安装扩展套件](QQBrowser.md)
 * [4-3. 在「UC 浏览器」安装扩展套件](uc-browsermd.md)
-* [4-4. 在「Chrome 浏览器」安装扩展套件](4-4-zai-300c-chrome-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-jian.md)
-* [4-5. 在「Safari 浏览器」安装扩展套件\(正在处理\)](4-5-zai-300c-safari-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-jian.md)
-* [4-6. 在「Firefox 浏览器」安装扩展套件\(正在处理\)](4-6-zai-300c-firefox-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-4ef6-md.md)
+* [4-4. 在「Chrome 浏览器」安装扩展套件](chrome.md)
+* [4-5. 在「Safari 浏览器」安装扩展套件\(正在处理\)](safari.md)
+* [4-6. 在「Firefox 浏览器」安装扩展套件\(正在处理\)](4-6-zai-300c-firefox-liu-lan-qi-300d-an-zhuang-kuo-zhan-tao-4ef628-zheng-zai-chu-740629.md)
 
