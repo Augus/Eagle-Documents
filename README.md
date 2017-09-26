@@ -24,7 +24,7 @@
 
 ### 第三部分 - 如何设置同步功能
 
-[1. 使用「移动硬盘」同步素材\(正在处理\)](/sync-with-usb-devices.md)
+[1. 使用「移动硬盘」同步素材](/sync-with-usb-devices.md)
 
 [2. 使用「坚果云」同步素材](/nutstore.md)
 

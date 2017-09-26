@@ -6,10 +6,6 @@
 
 **步骤一：前往扩展介绍页面，并下载 Safari 扩展**：[https://cn.eagle.cool/extensions](https://cn.eagle.cool/extensions)
 
-
-
-
-
 **步骤二：双击「Eagle.safariextz」，就能顺利安装扩展啦！**
 
 ![](/assets/borwser-safari-step-2.png)
@@ -21,8 +17,6 @@
 完成安装
 
 ![](/assets/borwser-safari-step-4.png)
-
-
 
 ---
 
