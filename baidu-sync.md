@@ -63,7 +63,7 @@
 
 安装结束后，百度同步盘会请你设定同步文件夹要存放的位置，选择你想要路径后，点击下一步。![](/assets/baidu-windows-login.jpg)
 
-**步骤四：设定坚果云存放路径**
+**步骤四：设定百度同步盘存放路径**
 
 ![](/assets/baidu-windows-path.jpg)
 
@@ -71,7 +71,7 @@
 
 ![](/assets/baidu-windows-tour.jpg)
 
-**步骤五：开启坚果云文件夹**![](/assets/baidu-windows-empty-folder.jpg)
+**步骤五：开启百度同步盘文件夹**![](/assets/baidu-windows-empty-folder.jpg)
 
 **步骤六：将 「Eagle 资源库」拖拽至百度同步盘同步文件夹中**![](/assets/baidu-windows-done-folder.jpg)
 
